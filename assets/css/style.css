@@ -3,7 +3,10 @@ body,html{
     overscroll-behavior:none;
     margin:0;
     padding:0;
-    background-color: #00b0f0;
+    background-color: #19e2e9 ;
+}
+.external-login{
+    font-size: 12px;
 }
 .qr-code{
     display: flex;
@@ -183,9 +186,9 @@ body,html{
 
 }
 
-.display-image {
+/* .display-image {
     border-radius: 50%;
-}
+} */
 
 .page-title {
     font-size: 18px;
@@ -317,10 +320,10 @@ body,html{
 }
 
 .display-image{
-    width:96px;
-    height:96px;
+    width:30vh;
+    /* height:96px; */
     display:block;
-    border-radius:50%;
+    /* border-radius:50%; */
     -o-object-fit:cover;
     object-fit:cover
 }
