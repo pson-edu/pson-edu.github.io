@@ -8,6 +8,23 @@ body,html{
 .external-login{
     font-size: 12px;
 }
+.inquiries{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.it-email{
+    text-decoration: none;
+    color: #222;
+    font-weight: 800;
+    font-style: italic;
+}
+.it-email:hover{
+    text-decoration: none;
+    color: #505050;
+    font-weight: 800;
+    font-style: italic;
+}
 .qr-code{
     display: flex;
     justify-content: center;
